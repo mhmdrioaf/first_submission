@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IECO</string>
+    <string name="destinations_name">Destinations Name</string>
+    <string name="destinations_detail">Destinations Detail</string>
+    <string name="destinations_city">Destinations City</string>
+</resources>
