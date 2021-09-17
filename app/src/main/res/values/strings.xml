@@ -3,4 +3,6 @@
     <string name="destinations_name">Destinations Name</string>
     <string name="destinations_detail">Destinations Detail</string>
     <string name="destinations_city">Destinations City</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="share">Share</string>
 </resources>

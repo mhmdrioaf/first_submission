@@ -11,4 +11,5 @@
     <color name="white_flat">#F0F0F0</color>
     <color name="black_flat">#292929</color>
     <color name="dark_ui">#5c5c5c</color>
+    <color name="btn_second">#e3d649</color>
 </resources>

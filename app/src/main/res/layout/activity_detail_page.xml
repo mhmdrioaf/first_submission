@@ -45,8 +45,24 @@
                 android:textSize="16sp"
                 android:lineSpacingExtra="4sp"/>
 
-
         </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_favorite"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="@string/add_to_favorite"
+            android:background="@color/btn_second"
+            android:textColor="@color/black_flat"/>
+
+        <Button
+            android:id="@+id/btn_share"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="@string/share"
+            android:background="@color/green_light"
+            android:textColor="@color/black_flat"/>
 
     </LinearLayout>
 
