@@ -24,7 +24,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical|end"
-            android:layout_marginBottom="8dp"
             android:textSize="16sp"
             android:textStyle="bold"
             tools:text="@string/destinations_name" />
@@ -35,7 +34,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical|end"
             android:ellipsize="end"
-            android:maxLines="1"
+            android:maxLines="2"
             tools:text="@string/destinations_detail" />
     </LinearLayout>
 </LinearLayout>
